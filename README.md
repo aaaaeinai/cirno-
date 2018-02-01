@@ -1,16 +1,18 @@
 
 # cirno-
 
+followed
+
 ```md
 
-resources
-    app
-        static
-            css
+- resources
+    - app
+        - static
+            - css
                 base.css
-        js
+        - js
             index.js
-        lib
+        - lib
             ... (all the css/js libs we need)
         index.html
     icon.icns
