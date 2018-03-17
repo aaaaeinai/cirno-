@@ -1,0 +1,24 @@
+{
+  "name": "cirno-",
+  "version": "0.0.1",
+  "description": "Discord bot that can play",
+  "main": "cirno.js",
+  "scripts": {
+    "test": "echo 'no test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaaaeinai/cirno-.git"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "game"
+  ],
+  "author": "https://github.com/aaaaeinai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaaaeinai/cirno-/issues"
+  },
+  "homepage": "https://github.com/aaaaeinai/cirno-#readme"
+}
